@@ -1,6 +1,6 @@
 # public-late-night-pharmacies
 
-## 2022 서울시 빅데이터 캠퍼스 멘토링 3기
+## 2022 동아리 대항전
 
 - [ ] **경희대학교 소프트웨어융합학과 김수빈**
 - [ ] **경희대학교 소프트웨어융합학과 박재훈**
@@ -93,18 +93,10 @@ spaghetti
 - [서울시 약국 위치(일반 약국 포함)](http://data.seoul.go.kr/dataList/OA-20402/S/1/datasetView.do)
 - [서울시 주거 밀집 구역(취약층 거주)](http://data.seoul.go.kr/dataList/10727/S/2/datasetView.do)
 
-#### 수빈
-
-- 고민중
-
 #### 인열
 
 - [전국 심야약국, 응급의료회 e-gen](https://www.e-gen.or.kr/egen/search_pharmacy.do?searchType=general)
 - [전국 시군구/읍면동 데이터](http://www.gisdeveloper.co.kr/?p=2332)
-
-#### 재훈
-
-- 고민중
 
 ---
 
